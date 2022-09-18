@@ -99,7 +99,7 @@ input, select, textarea {
 	}
 
 	body {
-		background-color: #1e252d;
+		background-color: #43d9b8;
 	}
 
 		body.is-preload *, body.is-preload *:before, body.is-preload *:after {
@@ -2500,7 +2500,7 @@ input, select, textarea {
 
 		select option {
 			background-color: #ffffff;
-			color: #49fcd4;
+			color: #212931;
 		}
 
 	.select-wrapper:before {
@@ -2519,7 +2519,7 @@ input, select, textarea {
 
 	input[type="checkbox"]:checked + label:before,
 	input[type="radio"]:checked + label:before {
-		background-color: #43d9b8;
+		background-color: #212931;
 		border-color: #212931;
 		color: #ffffff;
 	}
