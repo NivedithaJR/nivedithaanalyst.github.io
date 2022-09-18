@@ -99,7 +99,7 @@ input, select, textarea {
 	}
 
 	body {
-		background-color: #43d9b8;
+		background-color: #212931;
 	}
 
 		body.is-preload *, body.is-preload *:before, body.is-preload *:after {
@@ -144,7 +144,7 @@ input, select, textarea {
 		}
 
 	body {
-		color: #43d9b8;
+		color: #212931;
 	}
 
 	body, input, select, textarea {
